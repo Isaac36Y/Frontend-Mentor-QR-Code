@@ -17,36 +17,37 @@
 
    .QR-holder {
     background-color: #ffffff;
-    width: 400px;
-    height: 600px; 
+    width: 20em;
+    height: 30em; 
     border-radius: 20px;
-    margin: auto;
+    margin: 10em auto;
    }
 
    h1 {
-    font-size: 25px;
+    font-size: 20px;
+    font-weight: 700;
     margin: 20px auto;
     text-align: center;
-    padding: 0 35px;
+    padding: 0 30px;
     color: #1f3251ff;
    }
 
    p{
-    font-size: 20px;
+    font-size: 15px;
     margin: 20px auto;
     text-align: center;
-    padding: 0 40px;
+    padding: 0 30px;
     font-weight: 400;
     color: #68778dff;
    }
 
    h1, p {
-    font-family: Outfit;
+    font-family: Outfit, sans-serif;
    }
     
    img {
     display: block;
-    width: 370px;
+    width: 18em;
     margin: 15px auto;
     border-radius: 20px;
    }
@@ -55,7 +56,7 @@
         font-size: 11px; 
         text-align: center;
         display: block;
-        margin-top: auto;
-        padding: 12px 0;
+        margin: 5em 0 -5em 0;
+        
      }
     .attribution a { color: hsl(228, 45%, 44%); }
